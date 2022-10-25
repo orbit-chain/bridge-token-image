@@ -1,7 +1,7 @@
 {
-  "name": "Orbit Bridge Dev Matic",
-  "symbol": "oMATIC.dev",
-  "decimals": "18",
+  "name": "Orbit Bridge Devv Matic",
+  "symbol": "oMATIC.devv",
+  "decimals": "9",
   "description": "Test Token",
   "image": "https://raw.githubusercontent.com/orbit-chain/bridge-token-image/dev/ton/matic.png"
 }
