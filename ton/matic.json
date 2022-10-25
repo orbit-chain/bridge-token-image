@@ -1,7 +1,7 @@
 {
-  "name": "Orbit Bridge Ton Matic Token",
-  "symbol": "oMAITC",
+  "name": "Orbit Bridge Dev Matic",
+  "symbol": "oMATIC.dev",
   "decimals": "18",
-  "description": "Orbit Bridge Token on TON blockchain.",
-  "image": "https://raw.githubusercontent.com/orbit-chain/bridge-token-image/main/ton/matic.png"
+  "description": "Test Token",
+  "image": "https://raw.githubusercontent.com/orbit-chain/bridge-token-image/dev/ton/matic.png"
 }
