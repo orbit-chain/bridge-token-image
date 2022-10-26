@@ -1,8 +1,8 @@
 {
   "uri": "https://raw.githubusercontent.com/orbit-chain/bridge-token-image/dev/ton/matic.json",
-  "name": "Orbit Bridge Devvvv Matic",
+  "name": "Orbit Bridge Devvvvv Matic",
   "description": "Test Token",
   "image": "https://raw.githubusercontent.com/orbit-chain/bridge-token-image/dev/ton/matic.png",
-  "symbol": "oMATIC.devvvv",
-  "decimals": "9"
+  "symbol": "oMATIC.devvvvv",
+  "decimals": "18"
 }
