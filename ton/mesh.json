@@ -1,8 +1,0 @@
-{
-    "uri": "https://raw.githubusercontent.com/orbit-chain/bridge-token-image/main/ton/mesh.json",
-    "name": "Orbit Bridge Ton Meshswap Protocol",
-    "description": "Orbit Bridge Token on TON blockchain.",
-    "image": "https://raw.githubusercontent.com/orbit-chain/bridge-token-image/main/ton/mesh.png",
-    "symbol": "oMESH",
-    "decimals": "18"
-}

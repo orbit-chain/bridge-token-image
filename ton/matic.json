@@ -1,8 +1,0 @@
-{
-    "uri": "https://raw.githubusercontent.com/orbit-chain/bridge-token-image/main/ton/matic.json",
-    "name": "Orbit Bridge Ton Matic Token",
-    "description": "Orbit Bridge Token on TON blockchain.",
-    "image": "https://raw.githubusercontent.com/orbit-chain/bridge-token-image/main/ton/matic.png",
-    "symbol": "oMATIC",
-    "decimals": "18"
-}
